@@ -3,10 +3,10 @@
 
 ---
 
-## 🚀 Professional Summary
+## Author Introduction
 Computer Science undergraduate (3rd Semester, CGPA 3.8/4.0) with hands-on experience building full-stack, AI-integrated, and offline-first desktop and web applications. Proficient across Java/JavaFX, Python, and modern AI tooling, including local LLM inference with Ollama, Retrieval-Augmented Generation (RAG) pipelines, LangChain4j, and FAISS vector search. Ships portfolio-grade applications end-to-end, from database architecture to UI design, and is actively building fluency in DevOps, cloud platforms (AWS, Google Cloud, Azure), and AI-assisted development workflows using tools such as Claude, ChatGPT, and GitHub Copilot.
 
-## 🛠️ Technical & Core Competencies
+## Core Competencies
 *   **Languages:** Java, Python, C++, C, SQL, JavaScript, HTML5, CSS3
 *   **Frameworks & Libraries:** JavaFX, AtlantaFX, Ikonli, Spring Boot, PySide6, LangChain4j, SQLAlchemy, Flask
 *   **AI & Machine Learning:** Retrieval-Augmented Generation (RAG), Ollama (local LLM inference), Llama 3.2, Nomic Embed Text, FAISS vector search, sentence-transformers, OpenAI & Gemini APIs, MLOps fundamentals
@@ -16,7 +16,7 @@ Computer Science undergraduate (3rd Semester, CGPA 3.8/4.0) with hands-on experi
 *   **AI-Assisted Development:** Claude, ChatGPT, GitHub Copilot, Gemini, DeepSeek, Codex, Figma, Canva
 *   **Methodologies:** Object-Oriented Programming (OOP), MVC Architecture, Full-Stack Development, SDLC, Agile & Scrum, API Integration, Software Testing & QA
 
-## 💻 Software Engineering Projects
+## Author's Projects
 *   **WarWind** | *AI-Powered Strategic Intelligence & Cyber Defense Platform*
     *   Engineered a full-stack platform simulating geopolitical, cybersecurity, and economic scenarios using Java, Spring Boot, MongoDB, Python, HTML5, CSS3, and JavaScript, featuring a Synthetic Intelligence Engine, lightweight ML models, interactive maps, and speech-based AI alerts.
     *   Implemented secure authentication and REST APIs, combining OOP, AI, data analytics, cybersecurity, and simulation into a single scalable, long-term project.
@@ -45,7 +45,7 @@ Computer Science undergraduate (3rd Semester, CGPA 3.8/4.0) with hands-on experi
 *   **Academic Coursework Projects** | *Smart Home Control Simulation & Digital Logic Design*
     *   Engineered an OOP-based Java simulation for smart light and thermostat control using member, static, local, and anonymous classes; separately modeled synchronous circuit components (D, T, and JK Master-Slave flip-flops) for a digital logic design course.
 
-## 🏆 Certifications & Training
+## Certifications & Training
 *   **Microsoft DevOps Engineering Professional Certificate (5 courses)** - Microsoft, via Coursera
 *   **DevOps Essentials** - IBM Developer Skills Network, via Coursera
 *   **Ethical Hacker** - Cisco Networking Academy
