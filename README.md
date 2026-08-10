@@ -6,16 +6,6 @@
 ## 🚀 Professional Summary
 Computer Science undergraduate (3rd Semester, CGPA 3.8/4.0) with hands-on experience building full-stack, AI-integrated, and offline-first desktop and web applications. Proficient across Java/JavaFX, Python, and modern AI tooling, including local LLM inference with Ollama, Retrieval-Augmented Generation (RAG) pipelines, LangChain4j, and FAISS vector search. Ships portfolio-grade applications end-to-end, from database architecture to UI design, and is actively building fluency in DevOps, cloud platforms (AWS, Google Cloud, Azure), and AI-assisted development workflows using tools such as Claude, ChatGPT, and GitHub Copilot.
 
-## 🎓 Education
-*   **University of Engineering & Technology (UET)**, Peshawar, PK
-    *   Bachelor of Science in Computer Science (3rd Semester) | Expected Graduation: 2029
-    *   Current CGPA: 3.8 / 4.0
-    *   Relevant Coursework: Object-Oriented Programming (Java), Multivariable Calculus, Digital Logic Design, Data Structures
-*   **Islamia College (BISE Peshawar)**, Peshawar, PK
-    *   Intermediate (FSc - ICS) | Completed: 2025
-*   **Board of Intermediate and Secondary Education (BISE) Peshawar**, Peshawar, PK
-    *   Matriculation (Pre-Medical) | Completed: 2023
-
 ## 🛠️ Technical & Core Competencies
 *   **Languages:** Java, Python, C++, C, SQL, JavaScript, HTML5, CSS3
 *   **Frameworks & Libraries:** JavaFX, AtlantaFX, Ikonli, Spring Boot, PySide6, LangChain4j, SQLAlchemy, Flask
