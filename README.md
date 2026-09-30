@@ -74,8 +74,8 @@
 #### 📌 My Repos — Live Pins
 
 <p align="center">
-  <a href="https://github.com/AbdurRahmanKhan000/arkEngine">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdurRahmanKhan000&repo=arkEngine&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/AbdurRahmanKhan000/arkengine">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdurRahmanKhan000&repo=arkengine&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/AbdurRahmanKhan000/devcost-lens">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdurRahmanKhan000&repo=devcost-lens&theme=tokyonight&hide_border=true" />
@@ -84,7 +84,7 @@
 
 ---
 
-#### 📊 Analytics — Fixed Endpoints (No more broken images)
+#### 📊 Analytics — Fixed Endpoints
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdurRahmanKhan000&theme=tokyonight" />
@@ -92,17 +92,17 @@
 </p>
 
 <p align="center">
-  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRahmanKhan000&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="60%" src="https://github-profile-trophy.vercel.app/?username=AbdurRahmanKhan000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdurRahmanKhan000&theme=tokyonight" />
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdurRahmanKhan000&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurRahmanKhan000&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-<!-- Snake - will work after you add the workflow below -->
+<!-- Snake - will appear after workflow runs -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbdurRahmanKhan000/AbdurRahmanKhan000/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.[STRIPPED 84 bytes].svg" alt="snake" />
 </p>
 
 ---
