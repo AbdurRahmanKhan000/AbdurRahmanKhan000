@@ -89,12 +89,6 @@
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdurRahmanKhan000&theme=tokyonight" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdurRahmanKhan000&theme=tokyonight" />
 </p>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurRahmanKhan000&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=AbdurRahmanKhan000&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7" />
-</p>
 
 ---
 
