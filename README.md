@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=220&section=header&text=Abdur%20Rahman%20Khan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ARK%20%7C%20DevOps%20Engineer%20%7C%20Cloud%20%7C%20Ethical%20Hacker%20%7C%20AI%20Builder&descAlignY=60&descSize=17" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&center=true&vCenter=true&width=900&lines=CS+Undergrad+%40+UET+Peshawar+%7C+CGPA+3.8%2F4.0;Ship+secure%2C+offline-first+%26+AI-powered+systems;Java+%E2%80%A2+Python+%E2%80%A2+Spring+%E2%80%A2+RAG+%E2%80%A2+Ollama+%E2%80%A2+Cloud;Open+to+Global+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%7C+Cloud+%7C+Ethical+Hacker+%7C+AI+Builder;Designing+Secure%2C+Scalable+%26+Offline-First+Systems;Java+%E2%80%A2+Python+%E2%80%A2+Spring+%E2%80%A2+RAG+%E2%80%A2+Ollama+%E2%80%A2+Cloud;Open+to+Global+Opportunities" />
 </p>
 
 <p align="center">
@@ -20,16 +20,15 @@
 
 ---
 
-### ⚡ About Me — in 10 seconds
+### ⚡ About Me
 
-<img align="right" width="320" src="https://github.com/AbdurRahmanKhan000.png" style="border-radius:50%" />
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d285065eb9b.gif" />
 
-> CS undergrad (3rd Sem) who ships **secure, scalable & AI-powered** systems end-to-end — from DB design → UI → CI/CD → hardening.
+> Computer Science undergraduate with over 2.5 years of hands-on experience in **DevOps, Cloud Engineering, Ethical Hacking, and AI Systems Development**. Focused on designing and delivering secure, scalable, and offline-first architectures — from database modeling and system design to CI/CD automation and security hardening.
 
-- 🔭 **Building now →** `arkEngine` • `arkBrowse` • `GitGuard` • `PasteWrap` • `DevCost Lens`
-- 🧠 **Core Edge →** Local LLM (Llama 3.2 + Ollama), RAG pipelines, LangChain4j, FAISS, JavaFX / Spring Boot
-- 🛠️ **Workflow →** 25+ AI agents (Claude, 【entity-Copilot¦canonical_name=Copilot】, Gemini, DeepSeek, Codex) + Git-based DevOps
-- 🎯 **Motto →** *Your Dream, Our Passion — shipped as code.*
+- 🔭 **Currently Building →** ARK Ecosystem including `arkEngine`, `arkBrowse`, `GitGuard`, `PasteWrap`, and `DevCost Lens`
+- 🧠 **Core Expertise →** Local LLM inference (Ollama / Llama 3.2), Retrieval-Augmented Generation (RAG), LangChain4j, FAISS Vector Search, JavaFX and Spring Boot
+- 🛡️ **Engineering Approach →** Clean architecture, zero-trust security principles, performance optimization, and production-grade documentation
 
 <br clear="right"/>
 
@@ -68,7 +67,7 @@
 
 ---
 
-### 🚀 Featured Builds — Compact
+### 🚀 Featured Builds
 
 |  |  |
 |---|---|
@@ -89,7 +88,7 @@
 
 ---
 
-### 📊 GitHub Analytics — 100% README-only
+### 📊 GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdurRahmanKhan000&theme=tokyonight" />
