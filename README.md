@@ -75,16 +75,6 @@
 | **🔬 ResearchPilot AI** — Research Workspace<br/>PDF RAG, citations, gap finder<br/>`PySide6` `Kimi K3` `FAISS` | **🏥 MediQuery** — AI Medicine Search<br/>NL → SQL via Gemini 1.5, 3NF, <100ms<br/>`Flask` `MySQL` `FULLTEXT` |
 | **🔐 Secure Offline Vault** — Zero-Trust<br/>PBKDF2 + AES-GCM 256, encrypted vault<br/>`Web Crypto API` `JS` | **🔥 Forest Fire Warning** — Embedded<br/>Arduino Uno + IR + Buzzer<br/>`Embedded C` `IoT` |
 
----
-
-### 📌 Pinned Repos
-
-<p align="center">
-  <a href="https://github.com/AbdurRahmanKhan000/arkengine"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdurRahmanKhan000&repo=arkengine&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/AbdurRahmanKhan000/devcost-lens"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdurRahmanKhan000&repo=devcost-lens&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/AbdurRahmanKhan000/auto-grading-project"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdurRahmanKhan000&repo=auto-grading-project&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/AbdurRahmanKhan000/AbdurRahmanKhan000"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdurRahmanKhan000&repo=AbdurRahmanKhan000&theme=tokyonight&hide_border=true" /></a>
-</p>
 
 ---
 
