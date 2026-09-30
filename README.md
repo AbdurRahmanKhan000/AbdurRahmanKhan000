@@ -80,6 +80,12 @@
   <a href="https://github.com/AbdurRahmanKhan000/devcost-lens">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdurRahmanKhan000&repo=devcost-lens&theme=tokyonight&hide_border=true" />
   </a>
+  <a href="https://github.com/AbdurRahmanKhan000/auto-grading-project">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdurRahmanKhan000&repo=auto-grading-project&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/AbdurRahmanKhan000/AbdurRahmanKhan000">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdurRahmanKhan000&repo=AbdurRahmanKhan000&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
@@ -102,7 +108,7 @@
 
 <!-- Snake - will appear after workflow runs -->
 <p align="center">
-  <img src="https://raw.githubusercontent.[STRIPPED 84 bytes].svg" alt="snake" />
+  <img src="https://raw.githubusercontent.[STRIPPED 84 bytes].svg?v=2" alt="snake" />
 </p>
 
 ---
